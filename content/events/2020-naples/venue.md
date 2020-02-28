@@ -4,12 +4,10 @@ title: Venue
 
 {{< venue-map >}}
 
-## Getting to Location
+## About the Location
 
-The only way to get to Bouvet Island is by boat. Bouvet Island is approximately 2,600 km (1,600 mi) south-southwest of the coast of South Africa. There is nothing even remotely usable as a harbor, although it is possible to anchor outside of it. If you are willing to put your life at risk, you might try using a light boat with outboard engine to enter.
-
-There are no developed public-access airports or landing facilities.
+TBD
 
 ## Local Tranportation
 
-Local transportaion is dominated by seals, penguins, and other seabirds.
+TBD
